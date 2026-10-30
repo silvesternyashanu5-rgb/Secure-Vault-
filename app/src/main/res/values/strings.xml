@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecureVault</string>
+    <string name="alias_calculator">Calculator</string>
+    <string name="alias_notes">Notes</string>
+    <string name="alias_clock">Clock</string>
+    <string name="alias_weather">Weather</string>
+</resources>
